@@ -146,14 +146,14 @@ a {
 }
 
 /* Responsive design */
-@media (max-width: 800px) {
+@media (width <= 800px) {
     .heading {
         font-size: 20px;
         margin-left: 20px;
     }
 }
 
-@media (max-width: 768px) {
+@media (width <= 768px) {
     .nav-item {
         flex-direction: row;
     }
@@ -176,7 +176,7 @@ a {
     }
 }
 
-@media (max-width: 300px) {
+@media (width <= 300px) {
     .nav-item {
         flex-direction: row;
         gap: 0;
