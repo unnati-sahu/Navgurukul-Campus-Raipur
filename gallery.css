@@ -143,4 +143,11 @@ footer p {
         width: 20px;
         height: 20px;
     }
+    
+    @media (width <= 300px) {
+    .nav-item {
+        flex-direction: row;
+        gap: 0;
+        font-size: 8px;
+    }
 }
