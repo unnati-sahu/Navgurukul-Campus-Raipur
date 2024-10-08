@@ -197,6 +197,6 @@ a {
     .nav-item {
         flex-direction: row;
         gap: 0;
-        font-size: 8px;
+        font-size: 6px;
     }
 }
