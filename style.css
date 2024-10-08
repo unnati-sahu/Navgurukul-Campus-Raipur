@@ -76,7 +76,7 @@ header img {
     border-radius: 8px;
     margin: 0 20px;
     height: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0 0 0 10%);
 }
 
 .text-box h2,
@@ -122,7 +122,7 @@ h2 {
     padding: 15px;
     border-radius: 5px;
     width: 30%;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0 0 0 10%);
 }
 
 #news {
@@ -138,7 +138,7 @@ h2 {
 }
 
 footer {
-    background-color: rgb(241, 146, 112);
+    background-color: rgb(241 146 112);
     color: #000;
     padding: 20px;
     text-align: center;
