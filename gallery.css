@@ -144,7 +144,7 @@ footer p {
         height: 20px;
     }
     
-    @media (width <= 300px) {
+@media (width <= 300px) {
     .nav-item {
         flex-direction: row;
         gap: 0;
