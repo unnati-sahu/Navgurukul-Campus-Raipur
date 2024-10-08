@@ -174,20 +174,20 @@ a {
 }
 
 /* Media Queries */
-@media (max-width: 768px) {
+@media (width <= 768px) {
     .nav-item {
         flex-direction: row;
     }
 }
 
-@media (max-width: 600px) {
+@media (width <= 600px) {
     .social-links img {
         width: 25px;
         height: 25px;
     }
 }
 
-@media (max-width: 480px) {
+@media (width <= 480px) {
     .social-links img {
         width: 20px;
         height: 20px;
