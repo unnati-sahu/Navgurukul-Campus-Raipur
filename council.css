@@ -157,15 +157,19 @@ a {
     .nav-item {
         flex-direction: row;
     }
+    
     .grid-container {
         grid-template-columns: 1fr;
     }
+    
     .grid-item {
         padding: 10px;
     }
+    
     footer {
         padding: 10px;
     }
+    
     .social-links img {
         width: 25px;
         height: 25px;
